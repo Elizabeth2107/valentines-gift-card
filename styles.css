@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+  font-family: cursive;
+  text-align: center;
+
+}
+.image-one{
+  display: block;
+  margin: auto;
+  width: 50%;
+
+}
+
+.question{
+  margin-top: 10px;
+  font-weight: bolder;
+}
+
+.yes-btn{
+  background-color: rgb(19, 104, 19);
+  border-radius: 10px;
+  border: none;
+  color: #fff;
+  padding: 10px 15px;
+  
+}
+
+.no-btn, .no-btn2{
+  background-color: rgb(194, 35, 35);
+  border-radius: 10px;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  margin-left: 10px;
+}
+
+.card{
+  margin: 15px;
+}
+
+.buttonss{
+  margin-top: 40px;
+}
